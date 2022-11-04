@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "baber.shop019",
+    "slug": "baber.shop019",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
