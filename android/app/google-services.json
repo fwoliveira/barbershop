@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547713403923",
+    "project_id": "barbearia019",
+    "storage_bucket": "barbearia019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547713403923:android:85cf75537ca221a330c3e6",
+        "android_client_info": {
+          "package_name": "com.babershop019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547713403923-um6bot3pvnh2k4jr66lchk3nrbqrc73v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfXL4ja9TLd-r5qyjXMfkbyffqPTYjm3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547713403923-um6bot3pvnh2k4jr66lchk3nrbqrc73v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
